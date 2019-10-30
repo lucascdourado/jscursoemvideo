@@ -1,2 +1,2 @@
-# jscursoemvideo
-exercícios do curso de js do curso em video
+# JavaScript CursoEmVídeo
+exercicio pra monitoramento de horario no navegador e alteração de layout de acordo com o período do dia.
